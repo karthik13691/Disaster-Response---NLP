@@ -1,5 +1,11 @@
 # Disaster-Response---NLP
-Pipelines - ETL, NLP and ML pipelines
+
+Pipelines
+* ETL Pipeline
+* NLP Pipeline
+* ML Pipeline
+
+
 ### Language:
 Python
 
@@ -38,9 +44,10 @@ data.zip file containing
 * messages.csv
 * categories.csv
 
-Misc files
-* 
-* 
+Misc files (to run on the web app)
+* app
+* data
+* model
 
 
 
