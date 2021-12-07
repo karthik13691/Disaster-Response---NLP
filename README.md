@@ -31,7 +31,7 @@ Readme.md (this file)
 
 * disaster_ETL.db (saved ETL data)
 
-* disaster_model.pkl (model saved in a pickle file)
+* disaster_model.pkl (model saved in a pickle file)  --  not included (file size restrictions)
 
 
 data.zip file containing 
