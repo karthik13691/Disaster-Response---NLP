@@ -31,6 +31,8 @@ Readme.md (this file)
 
 * disaster_ETL.db (saved ETL data)
 
+* disaster_model.pkl (model saved in a pickle file)
+
 
 data.zip file containing 
 * messages.csv
