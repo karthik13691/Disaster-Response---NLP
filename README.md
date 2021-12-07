@@ -47,7 +47,7 @@ data.zip file containing
 * messages.csv
 * categories.csv
 
-Misc files (to run on the web app)
+Misc files (to run the web app)
 * app
 * data
 * model
