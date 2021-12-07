@@ -1,4 +1,7 @@
-# Disaster-Response---NLP
+# Disaster-Response-
+
+
+Part of Udacity's Data Science Nano Degree
 
 Pipelines
 * ETL Pipeline
